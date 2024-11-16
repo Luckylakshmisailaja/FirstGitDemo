@@ -1,0 +1,1 @@
+print("google comes with new future.")
